@@ -1,0 +1,47 @@
+.libertinus-math-regular {
+  font-family: "Libertinus Math", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+html {
+  font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+  font-family: "Libertinus Math"; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+  background-color: #000d19;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #25be5b;
+  text-shadow: 3px 3px 1px black;
+}
+a,
+p,
+li {
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0.5px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto 50px;
+  background-color: #c1efd1;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgba(0, 13, 25, 0.782);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
